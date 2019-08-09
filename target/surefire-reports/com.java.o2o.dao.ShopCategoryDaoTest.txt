@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.java.o2o.dao.ShopCategoryDaoTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.java.o2o.dao.ShopCategoryDaoTest

@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.java.o2o.service.ShopServiceTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.132 s <<< FAILURE! - in com.java.o2o.service.ShopServiceTest
-testAddShop(com.java.o2o.service.ShopServiceTest)  Time elapsed: 0 s  <<< ERROR!
-java.io.FileNotFoundException: E:\IDEA\WorkSpace\javaWeb2\RequiredPictures\2017060609084595067.jpg (系统找不到指定的文件。)
-	at com.java.o2o.service.ShopServiceTest.testAddShop(ShopServiceTest.java:83)
-

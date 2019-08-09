@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="o2oTelnet:war">
+    <output-path>$PROJECT_DIR$/../o2oTelnet/target</output-path>
+    <root id="archive" name="o2o.war">
+      <element id="artifact" artifact-name="o2oTelnet:war exploded" />
+    </root>
+  </artifact>
+</component>

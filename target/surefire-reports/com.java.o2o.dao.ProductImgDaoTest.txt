@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.java.o2o.dao.ProductImgDaoTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.6 s <<< FAILURE! - in com.java.o2o.dao.ProductImgDaoTest
+testDeleteProductImgByProductId(com.java.o2o.dao.ProductImgDaoTest)  Time elapsed: 0.053 s  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<2> but was:<3>
+	at com.java.o2o.dao.ProductImgDaoTest.testDeleteProductImgByProductId(ProductImgDaoTest.java:69)
+

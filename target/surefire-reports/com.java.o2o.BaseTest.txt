@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.java.o2o.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.388 s <<< FAILURE! - in com.java.o2o.BaseTest
+initializationError(com.java.o2o.BaseTest)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+

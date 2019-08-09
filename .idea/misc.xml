@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/.." />
+    <file type="web" url="file://$PROJECT_DIR$/../../../商品秒杀" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../o2oTelnet/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../商品秒杀/seckill/seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../商品秒杀/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo03/pom.xml" />
+        <option value="$PROJECT_DIR$/../data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../商品秒杀/cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../商品秒杀/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../商品秒杀2/miaosha_idea/pom.xml" />
+        <option value="$PROJECT_DIR$/../sevlet3.0/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

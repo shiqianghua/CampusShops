@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cache" />
+        <module name="data-mybatis" />
+        <module name="demo02" />
+        <module name="jdbc" />
+        <module name="miaosha_idea" />
+        <module name="o2o" />
+        <module name="o2oTelnet" />
+        <module name="rabbitmq" />
+        <module name="seckill" />
+        <module name="sevlet" />
+        <module name="sevlet (1)" />
+        <module name="sevlet3.0" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="cache" target="1.8" />
+      <module name="data-mybatis" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo02" target="1.8" />
+      <module name="demo03" target="1.8" />
+      <module name="jdbc" target="1.8" />
+      <module name="miaosha_idea" target="1.6" />
+      <module name="o2o" target="1.8" />
+      <module name="o2oTelnet" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="seckill" target="1.8" />
+      <module name="sevlet" target="1.8" />
+      <module name="sevlet (1)" target="1.5" />
+      <module name="sevlet3.0" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

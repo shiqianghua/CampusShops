@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/Algorithm/Algorithm.iml" filepath="E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/Algorithm/Algorithm.iml" />
+      <module fileurl="file://E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures/DataStructures.iml" filepath="E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaAlgorithm/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/../JavaAlgorithm/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀/cache/cache.iml" filepath="$PROJECT_DIR$/../../../商品秒杀/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data-mybatis/data-mybatis.iml" filepath="$PROJECT_DIR$/../data-mybatis/data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀/demo/demo.iml" filepath="$PROJECT_DIR$/../../../商品秒杀/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo02/demo02.iml" filepath="$PROJECT_DIR$/../demo02/demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo03/demo03.iml" filepath="$PROJECT_DIR$/../demo03/demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jdbc/jdbc.iml" filepath="$PROJECT_DIR$/../jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀2/miaosha_idea/miaosha_idea.iml" filepath="$PROJECT_DIR$/../../../商品秒杀2/miaosha_idea/miaosha_idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o.iml" filepath="$PROJECT_DIR$/o2o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../o2oTelnet/o2oTelnet.iml" filepath="$PROJECT_DIR$/../o2oTelnet/o2oTelnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/../../../商品秒杀/rabbitmq/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀/seckill/seckill/seckill.iml" filepath="$PROJECT_DIR$/../../../商品秒杀/seckill/seckill/seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../商品秒杀/sevlet.iml" filepath="$PROJECT_DIR$/../../../商品秒杀/sevlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sevlet (1).iml" filepath="$PROJECT_DIR$/../sevlet (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sevlet3.0/sevlet3.0.iml" filepath="$PROJECT_DIR$/../sevlet3.0/sevlet3.0.iml" />
+    </modules>
+  </component>
+</project>

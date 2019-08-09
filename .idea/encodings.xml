@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/.." charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../JavaAlgorithm/src/DataStructureAndAlgorithm/Josepfu.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/../JavaAlgorithm/src/DataStructureAndAlgorithm/Tree/BinaryTree.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/../data-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀/cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀/rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀/seckill/seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../商品秒杀2/miaosha_idea" charset="UTF-8" />
+    <file url="file://E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures/src/com/atguigu/sort/BubbleSort.java" charset="GB18030" />
+    <file url="file://E:/Java EE web Course/Java_EE_web/Spring学习资料/Java基础/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures/src/com/atguigu/sort/QuickSort.java" charset="GB18030" />
+  </component>
+</project>

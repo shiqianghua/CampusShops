@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="o2oRemote">
+    <output-path>$PROJECT_DIR$/out/artifacts/o2oRemote</output-path>
+    <root id="archive" name="o2oRemote.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/../o2oTelnet/src/main/webapp" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="o2oTelnet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
